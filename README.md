@@ -1,4 +1,4 @@
-# Little Lemon Restaurant Management System
+# Little Lemon Restaurant Management System 
 
 - [Little Lemon Restaurant Management System](#little-lemon-restaurant-management-system)
   - [Project Description](#project-description)
@@ -12,12 +12,7 @@
     - [CancelBooking()](#cancelbooking)
     - [AddValidBooking()](#addvalidbooking)
     - [CancelOrder()](#cancelorder)
-  - [Data Analysis with Tableau](#data-analysis-with-tableau)
-    - [Customers sales](#customers-sales)
-    - [Profit chart](#profit-chart)
-    - [Sales Bubble Chart](#sales-bubble-chart)
-    - [Cuisine Sales and Profits](#cuisine-sales-and-profits)
-    - [Dashboard](#dashboard)
+  
 
 ## Project Description
 
@@ -222,6 +217,20 @@ END;
 ```sql
 CALL CancelOrder(5);
 ```
+
+## Skills acquired
+* Create an entity relationship diagram using MySQL Workbench
+* Use MySQL Workbench to forward engineer the database and tables and populate data
+* Perform CRUD operations with SQL and with a Python client
+* Use the Python connector class to access the database
+* Create a dashboard using Tableau software to analyse business KPIs
+
+
+## Languages & software
+* Tableau software
+* MySQL / MySQL Workbench
+* Python / Pandas / MySQL Connector
+* Jupyter Notebook
 
 
 
