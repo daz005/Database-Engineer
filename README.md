@@ -1,20 +1,6 @@
-# Little Lemon Restaurant Management System 
+# Little Lemon Management System 
 
-- [Little Lemon Restaurant Management System](#little-lemon-restaurant-management-system)
-  - [Project Description](#project-description)
-  - [Entity-Relationship Diagram](#entity-relationship-diagram)
-  - [Installation and Setup](#installation-and-setup)
-  - [Stored Procedures](#stored-procedures)
-    - [GetMaxQuantity()](#getmaxquantity)
-    - [CheckBooking()](#checkbooking)
-    - [UpdateBooking()](#updatebooking)
-    - [AddBooking()](#addbooking)
-    - [CancelBooking()](#cancelbooking)
-    - [AddValidBooking()](#addvalidbooking)
-    - [CancelOrder()](#cancelorder)
-  
-
-## Project Description
+## Database Project Description
 
 The purpose of this project is to help Little Lemon manage its database by adding sales reports and creating a table booking system using mySQL.
 Little Lemon needs to build a robust relational database system in MySQL in which they can store large amounts of data. 
